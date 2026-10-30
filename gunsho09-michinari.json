@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/michinari",
  "yomi": "みなもとのみちなりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（11世紀）",
+  "author": "源道済（?〜1019）",
+  "desc": "源道済の家集。歌合の歌のほか、筑前守として任地の香椎宮で詠んだ歌などを収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -3509,6 +3514,6 @@
   "poems": 307,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
